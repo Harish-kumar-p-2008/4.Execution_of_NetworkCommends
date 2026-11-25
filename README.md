@@ -26,7 +26,36 @@ This commands includes
 • Other IP Commands e.g. show ip route etc.
 <BR>
 
-## Output
+## Output:
 
-## Result
+## netstat:
+![alt text](image.png)
+![alt text](image-1.png)
+
+## ipconfig:
+![alt text](image-2.png)
+
+## ping:
+![alt text](image-3.png)
+
+## tracert:
+![alt text](image-4.png)
+
+## nslookup:
+![alt text](image-5.png)
+
+## hostname:
+![alt text](image-6.png)
+
+## nbtstat:
+![alt text](image-7.png)
+
+## arp:
+![alt text](image-8.png)
+
+## systeminfo:
+![alt text](image-9.png)
+![alt text](image-10.png)
+
+## Result:
 Thus Execution of Network commands Performed 
